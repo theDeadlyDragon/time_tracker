@@ -76,7 +76,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "../../../../Desktop/")
+			(outputdirectory "../../Desktop/time_tracker/")
 		)
 	)
 	(net 0 "")
